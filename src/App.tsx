@@ -97,12 +97,18 @@ export const App = () => {
 	fireAsyncOps()
 
 	return (
-		<article>
+		<article className="app">
+			<header>
+				<h3>Hello!</h3>
+			</header>
 			<section>
-				<p>
-					Hello! Open the Developer Tools, and visit the console tab
-				</p>
+				<p>Open the Developer Tools, and visit the console tab</p>
 			</section>
+			<footer>
+				&copy; Anthony Williams
+				<br />
+				August 2022
+			</footer>
 		</article>
 	)
 }

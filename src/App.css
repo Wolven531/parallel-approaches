@@ -1,0 +1,19 @@
+.app {
+	align-content: space-between;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+.app footer {
+	/* align-items: center; */
+	bottom: 0;
+	font-size: 0.75em;
+	/* display: flex; */
+	padding: 1em;
+	position: absolute;
+	text-align: center;
+}
