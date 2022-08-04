@@ -9,3 +9,5 @@ Using yarn -
 
 1. `yarn`
 1. `yarn start`
+
+Once browser window launches, open Developer Tools console
