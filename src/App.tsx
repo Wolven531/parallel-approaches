@@ -99,7 +99,7 @@ export const App = () => {
 	return (
 		<article>
 			<section>
-				<p>Hello!</p>
+				<p>Hello! Open the Developer Tools, and visit the console tab</p>
 			</section>
 		</article>
 	)
