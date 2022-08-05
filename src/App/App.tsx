@@ -99,7 +99,7 @@ export const App = () => {
 	return (
 		<article className="app">
 			<header>
-				<h3>Hello!</h3>
+				<h3>Hello, friend!</h3>
 			</header>
 			<section>
 				<p>Open the Developer Tools, and visit the console tab</p>
